@@ -1,0 +1,4 @@
+*.DS_Store
+Py2_AWS/*
+AWS_Cluster/*
+AWS_Client_Server/presentation/reveal.js/*
